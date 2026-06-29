@@ -158,9 +158,9 @@ neuroscan-ai/
 
 ## Authors
 
-**Santiago Sepúlveda Landeros** · [LinkedIn](https://linkedin.com/in/[yourhandle]) · [GitHub](https://github.com/Sepu2002)
+**Santiago Sepúlveda Landeros** · [LinkedIn](https://www.linkedin.com/in/santiago-sepulvedal/) · [GitHub](https://github.com/Sepu2002)
 
-**Melisa Ortiz Morante** · [LinkedIn](https://linkedin.com/in/[melisashandle])
+**Melisa Ortiz Morante** · [LinkedIn](https://www.linkedin.com/in/melisa-ortiz-a97579280/)
 
 *Final project — Sistemas Inteligentes, Ingeniería en Automatización Inteligente*
 *Universidad Panamericana · June 2026*
