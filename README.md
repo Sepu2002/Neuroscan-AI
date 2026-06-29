@@ -4,7 +4,7 @@
 
 > Built for edge deployment — designed to run directly on MRI workstation interfaces or mobile devices, where a lightweight model can flag critical cases before a radiologist even opens the queue.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aQG0rdz7AjW9UJlLfW24uPOQLYUW9Rfp?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sepu2002/Neuroscan-AI/blob/main/notebook/NeuroScan_AI.ipynb)
 
 ---
 
@@ -108,8 +108,8 @@ os.environ["KAGGLE_TOKEN"] = userdata.get("KAGGLE_TOKEN")
 ### Run locally
 
 ```bash
-git clone https://github.com/[yourusername]/neuroscan-ai.git
-cd neuroscan-ai
+git clone https://github.com/Sepu2002/Neuroscan-AI.git
+cd Neuroscan-AI
 pip install -r requirements.txt
 jupyter notebook notebook/NeuroScan_AI.ipynb
 ```
@@ -124,7 +124,7 @@ print(result)
 # {'clase': 'glioma', 'confianza': 94.7, 'descripcion': '...', 'probabilidades': {...}}
 ```
 
-> Requires `neuroscan_ai_final.pt` in the project root. Download it from the [releases page](https://github.com/[yourusername]/neuroscan-ai/releases) or generate it by running the full notebook.
+> Requires `neuroscan_ai_final.pt` in the project root. Download it from the [releases page](https://github.com/Sepu2002/Neuroscan-AI/releases) or generate it by running the full notebook.
 
 ---
 
@@ -158,7 +158,7 @@ neuroscan-ai/
 
 ## Authors
 
-**Santiago Sepúlveda Landeros** · [LinkedIn](https://linkedin.com/in/[yourhandle]) · [GitHub](https://github.com/[yourusername])
+**Santiago Sepúlveda Landeros** · [LinkedIn](https://linkedin.com/in/[yourhandle]) · [GitHub](https://github.com/Sepu2002)
 
 **Melisa Ortiz Morante** · [LinkedIn](https://linkedin.com/in/[melisashandle])
 
