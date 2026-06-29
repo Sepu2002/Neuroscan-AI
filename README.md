@@ -4,7 +4,7 @@
 
 > Built for edge deployment — designed to run directly on MRI workstation interfaces or mobile devices, where a lightweight model can flag critical cases before a radiologist even opens the queue.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/[yourusername]/neuroscan-ai/blob/main/notebook/NeuroScan_AI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aQG0rdz7AjW9UJlLfW24uPOQLYUW9Rfp?usp=sharing)
 
 ---
 
