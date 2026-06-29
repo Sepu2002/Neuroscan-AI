@@ -1,0 +1,30 @@
+# Model weights (too large for git — use releases or Git LFS)
+*.pt
+*.pth
+*.onnx
+
+# Dataset (download via Kaggle)
+brain_tumor_data/
+*.zip
+demo_images/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+
+# Kaggle credentials — NEVER commit these
+.kaggle/
+kaggle.json
+access_token
+
+# OS
+.DS_Store
+Thumbs.db

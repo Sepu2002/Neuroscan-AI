@@ -1,0 +1,10 @@
+torch>=2.0.0
+torchvision>=0.15.0
+efficientnet-pytorch>=0.7.1
+grad-cam>=1.4.6
+Pillow>=9.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+scikit-learn>=1.2.0
+kaggle>=1.5.16
+jupyter>=1.0.0
